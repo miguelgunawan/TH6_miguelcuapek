@@ -1,0 +1,12 @@
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\bin\Debug\TH6_Miguel.exe.config
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\bin\Debug\TH6_Miguel.exe
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\bin\Debug\TH6_Miguel.pdb
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.csproj.AssemblyReference.cache
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.Form1.resources
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.Properties.Resources.resources
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.csproj.GenerateResource.cache
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.csproj.CoreCompileInputs.cache
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.exe
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.pdb
+C:\Users\Michiellin Natalie G\source\repos\TH6_Miguel\TH6_Miguel\obj\Debug\TH6_Miguel.Form2.resources
